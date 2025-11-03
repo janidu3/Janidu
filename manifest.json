@@ -1,0 +1,16 @@
+{
+  "short_name": "Sampurana",
+  "name": "Gemini Sampurana Chat",
+  "description": "A fully-featured, visually appealing chat application powered by the Google Gemini API.",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#0f172a",
+  "background_color": "#0f172a"
+}

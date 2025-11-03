@@ -1,0 +1,7 @@
+{
+  "name": "Gemini Sampurana Chat",
+  "description": "A fully-featured, visually appealing chat application powered by the Google Gemini API. Built with React and Tailwind CSS for a seamless conversational experience.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
